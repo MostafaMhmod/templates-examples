@@ -1,0 +1,23 @@
+{
+  "name": "tinyone-template",
+  "version": "1.0.0",
+  "description": "This is the html aand css code for tinyone page templete",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync start --server --files='*.html,views/*.html,js/*.js,css/*.css,css/components/*.css'",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostafaMhmod/templates-examples.git"
+  },
+  "keywords": [
+    "templates"
+  ],
+  "author": "Moustafa Mahmoud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MostafaMhmod/templates-examples/issues"
+  },
+  "homepage": "https://github.com/MostafaMhmod/templates-examples#readme"
+}

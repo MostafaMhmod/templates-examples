@@ -1,0 +1,16 @@
+.top-bar{
+  padding-top: 1.3rem;
+
+}
+
+.top-bar ul  {
+  margin: 0;
+  list-style: none;
+  display: inline-block;
+
+display: inline-block;
+}
+.top-bar ul li{
+    float: right;
+
+}

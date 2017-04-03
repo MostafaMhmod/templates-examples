@@ -1,0 +1,19 @@
+* {
+font-family: 'PT Sans', sans-serif;
+}
+
+.home{
+    min-height: 100vh;
+    overflow: auto;
+    position: relative;
+    background-color: yellow;
+    background-size: cover;
+}
+
+.features{
+        min-height: 100vh;
+
+}
+.clear {
+    clear: both;
+}
