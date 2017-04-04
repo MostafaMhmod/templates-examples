@@ -1,16 +1,25 @@
-.top-bar{
-  padding-top: 1.3rem;
+.row{
+    padding-top: 2.0rem;
+    font-size: 180%;
 
 }
 
-.top-bar ul  {
-  margin: 0;
+.home-links{
   list-style: none;
-  display: inline-block;
+  float: right;
 
-display: inline-block;
 }
-.top-bar ul li{
-    float: right;
 
+.logo{
+ margin-right: 5px; 
+ 
+}
+
+.home-links li{
+    margin:0 25px 0;
+    display: inline-block;
+}
+
+.home-links a{
+color :black;
 }
