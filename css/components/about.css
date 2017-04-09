@@ -1,3 +1,27 @@
-.features__about{
+.features__about {
+    padding-top: 7rem;
+}
 
+.features__title h1 {
+    padding-left: 21rem;
+    font-size: 32px;
+}
+
+.features__title p {
+    padding-top: 1rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    max-width: 70rem;
+    font-size: 20px;
+    color: #343434;
+}
+
+.features__grid{
+    padding-top: 6rem;
+
+}
+
+.features__grid ul li{
+    display: inline-block;
+    color: black;
 }
