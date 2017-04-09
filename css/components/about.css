@@ -16,12 +16,17 @@
     color: #343434;
 }
 
-.features__grid{
+.features__grid {
     padding-top: 6rem;
 
 }
 
-.features__grid ul li{
+.features__grid ul li {
     display: inline-block;
     color: black;
+}
+
+.features__grid__text {
+    max-width: 19rem;
+    padding-left: 4rem;
 }
