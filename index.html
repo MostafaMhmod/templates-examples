@@ -7,44 +7,67 @@
     <!-- build:css main.css -->
     <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
     <link rel="stylesheet" href="css/foundation.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/components/top-bar.css">
+    <link rel="stylesheet" href="css/components/header.css">
+    <link rel="stylesheet" href="css/components/about.css">
     <script src="js/jquery.js"></script>
-
     <!-- endbuild -->
 </head>
 
 <body>
-    <header class="home" role="banner">
-        <div class="row upper-bar">
-            <nav class="top-bar">
-                <ul class="home-links">
-                    <li class="home-links__itme"><a href="">Features</a></li>
-                    <li class="home-links__itme"><a href="">Support</a></li>
-                    <li class="home-links__itme"><a href="">Blog</a></li>
-                </ul>
-            </nav>
-            <div class="logo">
-                tinyone
-            </div>
+<section class="home" role="banner">
+    <div class="row upper-bar">
 
-            <div class="clear"></div>
-
-        </div>
-        <div class="row lowe-bar">
-            <div class="home__container">
-                <p>Inspire your inspiration</p>
-            </div>
-
+        <nav class="top-bar">
+            <ul class="home-links">
+                <li class="home-links__itme"><a href="">Features</a></li>
+                <li class="home-links__itme"><a href="">Support</a></li>
+                <li class="home-links__itme"><a href="">Blog</a></li>
+            </ul>
+        </nav>
+        <div class="home__title">
+            <div class="logo" style="background-image: url(img/fingerprint.png)"></div>
+            <div class="logoWord">tinyone</div>
         </div>
 
+    </div>
 
-    </header>
+    <div class="row lower-bar">
 
-    <section class="features">
+        <div class="large-12 columns textContainer">
+            <p class="textContainer__title">Inspire your inspiration</p>
+            <p class="textContainer__semiTitle">Simple to use for your app, products showcase and your inspiration.</p>
+            <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique
+                bibendum. Donec rutrum sed sem quis venenatis.</h2>
 
-    </section>
+            <ul class="textContainer__links">
+                <li><a href="" class="fa fa-apple"></a></li>
+                <li><a href="" class="fa fa-android"></a></li>
+                <li><a href="" class="fa fa-windows"></a></li>
+            </ul>
+        </div>
+
+        <div class="small-5 columns tablet"><img src="img/iPad.png" alt=""></div>
+
+    </div>
+
+
+</section>
+
+<section class="features">
+    <div class="features__about">
+        <div class="small-5 columns"></div>
+        <div class="small-9 columns">
+            <h1>Tinyone features</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eros eget tellus tristique
+                bibendum. Donec rutrum sed sem quis venenatis.
+            </p>
+        </div>
+
+    </div>
+</section>
 </body>
 
 </html>

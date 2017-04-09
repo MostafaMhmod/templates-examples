@@ -1,0 +1,43 @@
+.lower-bar {
+    padding-top: 44px;
+}
+
+.textContainer {
+    padding-top: 45px;
+    max-width: 390px;
+    color: dimgray;
+    margin-left: 36px;
+
+}
+
+.textContainer h2 {
+    font-size: 90%;
+}
+
+.textContainer__title {
+    font-size: 32px;
+    color: black;
+}
+
+.textContainer__semiTitle {
+    font-size: 20px;
+    color: #343434;
+    font-weight: 400;
+
+}
+
+.tablet {
+    background-size: cover;
+    max-width: 100%;
+}
+
+.textContainer__links li {
+    display: inline-block;
+    padding-top: 42px;
+    margin-right: 42px;
+}
+
+.textContainer__links li a {
+    color: black;
+    font-size: 300%;
+}

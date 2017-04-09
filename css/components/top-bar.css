@@ -1,25 +1,37 @@
-.row{
-    padding-top: 2.0rem;
-    font-size: 180%;
+.upper-bar {
+    padding-top: 4.0rem;
 
 }
 
-.home-links{
-  list-style: none;
-  float: right;
+.home-links {
+    list-style: none;
+    float: right;
+    font-size: 25px;
+    margin-right: 39px;
+}
+
+.home__title {
+    margin-left: 46px;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    float: left;
 
 }
 
-.logo{
- margin-right: 5px; 
- 
-}
-
-.home-links li{
-    margin:0 25px 0;
+.home-links li {
+    margin: 0 25px 0;
     display: inline-block;
 }
 
-.home-links a{
-color :black;
+.home-links a {
+    color: black;
+}
+
+.logoWord {
+    margin: 0px 60px 0;
+    font-size: 30px;
 }
