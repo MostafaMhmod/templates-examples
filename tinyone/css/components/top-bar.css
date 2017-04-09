@@ -25,6 +25,8 @@
 .home-links li {
     margin: 0 25px 0;
     display: inline-block;
+    font-weight: bold;
+
 }
 
 .home-links a {
@@ -32,6 +34,8 @@
 }
 
 .logoWord {
-    margin: 0px 60px 0;
+    margin: 0 60px 0;
     font-size: 30px;
+    font-weight: bold;
+
 }
