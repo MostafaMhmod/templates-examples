@@ -1,10 +1,38 @@
-.footer__container{
+.footer__container {
     padding-top: 7rem;
 }
-.footer__container .features__title h1{
+
+.footer__container .features__title h1 {
     color: yellow;
 }
-.footer__container .features__title p{
+
+.footer__container .features__title p {
     color: darkgrey;
 
+}
+
+.footer__search {
+    padding-top: 4rem;
+    padding-left: 12rem;
+}
+
+.footer__search__text-field {
+    width: 25rem;
+    height: 2.5rem;
+    margin-right: 0.7rem;
+    border-radius: 1%;
+    border-color: white;
+}
+
+.footer__search__button {
+    background-color: yellow;
+    width: 5rem;
+    height: 2.5rem;
+    border-radius: 7%;
+}
+
+.footer__social-media-links li {
+    padding-top: 4rem;
+    padding-right: 1rem;
+    display: inline-block;
 }
