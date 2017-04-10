@@ -3,7 +3,7 @@
 }
 
 .features__title h1 {
-    padding-left: 21rem;
+    /*padding-left: 51vh;*/
     font-size: 32px;
     font-weight: bold;
 }
@@ -41,8 +41,8 @@
 
 .features__grid__text h1 {
     /*margin-bottom: -1.5rem;*/
+    /*float:left;*/
     font-weight: bold;
-
     font-size: 23px;
 }
 
