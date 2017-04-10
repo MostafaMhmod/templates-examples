@@ -1,5 +1,5 @@
 .footer__container {
-    padding-top: 7rem;
+    padding-top: 5rem;
 }
 
 .footer__container .features__title h1 {
@@ -17,7 +17,7 @@
 }
 
 .footer__search__text-field {
-    width: 25rem;
+    width: 26rem;
     height: 2.5rem;
     margin-right: 0.7rem;
     border-radius: 1%;
@@ -26,13 +26,36 @@
 
 .footer__search__button {
     background-color: yellow;
-    width: 5rem;
+    width: 6rem;
     height: 2.5rem;
     border-radius: 7%;
 }
+.footer__social-media-links{
+    padding-left: 19rem;
+    color: yellow;
+}
 
 .footer__social-media-links li {
+    font-size: 2rem;
+
     padding-top: 4rem;
-    padding-right: 1rem;
+    padding-right: 2rem;
     display: inline-block;
+
+
+}
+
+
+
+.footer__social-media-links li a{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #fcdb00;
+    color: black;
+}
+
+.footer__social-media-links li a i{
+    padding-right: 1px;
 }

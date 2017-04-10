@@ -13,17 +13,16 @@
 }
 
 .features {
-    background-color: white;
     min-height: 100vh;
-    padding-left: 18rem;
-    padding-right: 18rem;
+    padding-left: 10rem;
+    padding-right: 7rem;
 }
 
 .footer {
-    background-color: black;
     min-height: 100vh;
-    padding-left: 18rem;
-    padding-right: 18rem;
+    background-color: black;
+    padding-left: 10rem;
+    padding-right:7rem;
 
 }
 

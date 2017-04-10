@@ -1,17 +1,16 @@
 .features__about {
-    padding-top: 7rem;
+    padding-top: 4rem;
 }
 
 .features__title h1 {
-    padding-left: 19rem;
+    padding-left: 21rem;
     font-size: 32px;
     font-weight: bold;
-
 }
 
 .features__title p {
     padding-top: 1rem;
-    padding-left: 7rem;
+    padding-left: 6rem;
     padding-right: 6rem;
     max-width: 70rem;
     font-size: 20px;
@@ -20,6 +19,7 @@
 
 .features__grid {
     padding-top: 4rem;
+
 
 }
 .features__grid img{
@@ -34,6 +34,7 @@
 }
 
 .features__grid__text {
+
     max-width: 19rem;
     padding-left: 4rem;
 }
@@ -43,4 +44,9 @@
     font-weight: bold;
 
     font-size: 23px;
+}
+
+.features__grid__text p{
+    color: grey;
+
 }
