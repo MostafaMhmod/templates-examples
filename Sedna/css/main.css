@@ -1,0 +1,17 @@
+* {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.intro {
+    min-height: 92vh;
+    overflow: auto;
+    position: relative;
+    background-image:url(../img/hero.jpg);
+    background-size: cover;
+}
+
+
+
+.clear {
+    clear: both;
+}

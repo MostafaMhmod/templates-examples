@@ -1,0 +1,25 @@
+{
+  "name": "sedna",
+  "version": "1.0.0",
+  "description": "a one page website template",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync start --server --files='*.html,views/*.html,js/*.js,css/*.css,css/components/*.css'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostafaMhmod/templates-examples.git"
+  },
+  "keywords": [
+    "sedna",
+    "free",
+    "templates"
+  ],
+  "author": "Moustafa Mahmoud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MostafaMhmod/templates-examples/issues"
+  },
+  "homepage": "https://github.com/MostafaMhmod/templates-examples#readme"
+}
