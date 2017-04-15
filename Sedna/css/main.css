@@ -1,5 +1,6 @@
 * {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 .intro {
@@ -9,7 +10,6 @@
     background-image:url(../img/hero.jpg);
     background-size: cover;
 }
-
 
 
 .clear {
